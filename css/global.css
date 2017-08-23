@@ -3494,7 +3494,7 @@ input[type="date"]:focus,input[type="email"]:focus,input[type="number"]:focus,in
 hr{background-color:rgba(0,0,0,.08);color:rgba(0,0,0,.08)}	
 
 /* Header */
-#Top_bar .menu > li > a span{border-color:rgba(0,0,0,.05)}
+#Top_bar .menu > li > a span{border-color:#fff}
 #Top_bar .search_wrapper input[type="text"]{border-color:#fff;color:#fff}	
 
 /* Footer */

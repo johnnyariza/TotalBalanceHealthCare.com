@@ -176,10 +176,10 @@ a.mfn-link-6:before {
 	color: #fff;
 }
 #Top_bar .menu>li.current-menu-item>a, #Top_bar .menu>li.current_page_item>a, #Top_bar .menu>li.current-menu-ancestor>a, #Top_bar .menu>li.current_page_ancestor>a, #Top_bar .menu>li.hover>a {
-	color: #88b5bf;
+	color: #80ddff;
 }
 #Top_bar .menu>li a:after {
-	background: #88b5bf;
+	background: #80ddff;
 }
 .menu-highlight #Top_bar #menu>ul>li.current-menu-item>a, .menu-highlight #Top_bar #menu>ul>li.current_page_item>a, .menu-highlight #Top_bar #menu>ul>li.current-menu-ancestor>a, .menu-highlight #Top_bar #menu>ul>li.current_page_ancestor>a, .menu-highlight #Top_bar #menu>ul>li.hover>a {
 	background: #88b5bf;
@@ -289,6 +289,9 @@ blockquote, blockquote a, blockquote a:hover {
 .image_frame .image_wrapper .image_links a:hover {
 	background: #fff;
 	color: #88b5bf;
+}
+.image_about {
+	box-shadow: 10px 10px 5px #888888;
 }
 
 /* Sliding box */
