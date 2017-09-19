@@ -4118,7 +4118,7 @@ body:not(.with_aside) .portfolio_group.list .portfolio-item .portfolio-item-fw-w
 }
 
 #Footer .widgets_wrapper .widget:after {
-    display: none;
+/*    display: none;*/
 }
 
 #Footer .footer_copy {
